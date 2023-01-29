@@ -1,6 +1,6 @@
-# CODE-3-Caesar-Cipher
+## CODE-3-Caesar-Cipher
 
-# Instructions
+## Instructions
 
 In this CODE assignment, you will program a Caesar Cipher. The Caesar Cipher is one of the oldest mechanisms to encrypt information. The cipher relies on substitution to encrypt and decrypt information. In this assignment, we will only encrypt information.
 
@@ -10,7 +10,7 @@ There are two elements in a Caesar Cipher:
 *  Key: number of characters the word will be changed by.
 
 
-# Use the following user prompts
+## Use the following user prompts
 
 * Welcome the user
   + **"\nCaesar Cipher - Program"**
